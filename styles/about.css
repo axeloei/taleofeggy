@@ -11,7 +11,7 @@
     padding-top: 30px;
     padding-bottom: 30px;
     flex-wrap: wrap; 
-    background-image: url("https://<axeloei>.github.io/taleofeggy/assets/green_background.jpg");
+    background-image: url("/taleofeggy/assets/green_background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
